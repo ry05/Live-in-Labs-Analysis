@@ -1,0 +1,48 @@
+House No.,Sector No.,Choice of Storage,"Capacity(ltrs/number) For 'Cans + Buckets', we have encoded count of both",Motor ?,No. of people,Borewell ?,Thariyal ?,Major Source
+1,3,Tank ,500,1,13,1,1,B
+2,3,Buckets,12,0,12,1,1,B
+3,3,Controls the borewell,-,0,17,1,1,B
+4,3,Buckets,15,0,7,1,0,B
+6,3,Buckets,15,0,5,1,0,B
+7,3,Buckets,10,0,2,1,0,B
+10,3,Tank ,500,1,4,0,1,T
+11,3,Cans + Buckets,"1,10",0,7,1,1,T
+12,3,Cans,3,0,6,0,1,T
+13,3,Buckets,5,0,10,1,0,B
+14,3,Tank ,500,0,10,0,1,T
+15,3,Buckets,18,0,11,0,1,T
+16,3,Buckets,10,1,5,0,1,T
+17,3,Buckets,4,0,6,0,1,T
+18,3,Buckets,7,0,10,1,1,B
+19,3,Cans,2,0,5,1,0,B
+20,3,Buckets,3,0,4,1,0,B
+21,3,Buckets,10,0,5,1,1,B
+22,3,Buckets,4,0,3,1,0,B
+23,3,Cans + Buckets,"2,10",0,5,1,0,B
+24,3,Buckets,6,0,8,1,0,B
+25,3,Buckets,7,0,5,0,1,T
+26,3,Cans + Buckets,"3,3",0,3,1,1,B
+27,3,Tank ,350,1,7,0,1,T
+28,3,Buckets,4,0,8,1,1,T
+29,3,Buckets,3,0,5,0,1,T
+31,3,Sump,12743,0,6,1,0,B
+32,3,Cans + Buckets,"1,2",0,4,1,0,B
+33,3,Tank ,1000,0,6,0,1,T
+35,3,Buckets,6,1,5,0,1,T
+36,3,Buckets,4,0,4,1,0,B
+37,3,Buckets,4,0,5,0,1,T
+38,2,Sump,4247,0,13,0,1,T
+39,2,Buckets,5,0,5,0,1,T
+40,2,Buckets,5,0,5,0,1,T
+41,2,Buckets,6,0,4,1,0,B
+43,2,Cans + Buckets,"7,1",1,11,0,1,T
+44,2,Tank ,500,1,6,0,1,T
+45,2,Buckets,5,0,5,0,1,T
+47,2,Buckets,4,0,5,0,1,T
+48,2,Buckets,4,0,5,0,1,T
+49,2,Tank ,350,1,5,0,1,T
+50,2,Tank ,300,0,7,0,1,T
+51,2,Buckets,10,1,7,0,1,T
+52,2,Tank ,500,1,3,0,1,T
+54,2,Tank ,350,0,3,0,1,T
+55,2,Tank ,500,1,10,0,1,T
