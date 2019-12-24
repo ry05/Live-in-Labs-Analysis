@@ -25,6 +25,9 @@ Northern Punjab, India
 * **Number of Houses :** 58
 * **Major Occupation :** Unskilled, seasonal labour
 
+### Resource Map of the Village
+![Resource Map of Dodeneer]("Resource Map.jpeg")
+
 ## State of water in the village (Prior to our study)
 * According to several villagers, dearth of water is a problem that cripples their daily routines.
 * The main people who are affected by the above problem statement include the labourers as they are often delayed for work if water is late or does not arrive as they are the ones who go to nearby villages to collect water.
