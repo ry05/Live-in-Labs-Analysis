@@ -26,7 +26,11 @@ Northern Punjab, India
 * **Major Occupation :** Unskilled, seasonal labour
 
 ### Resource Map of the Village
-![Resource Map of Dodeneer]("Resource Map.jpeg")
+![Resource Map of Dodeneer](https://github.com/ry05/Live-in-Labs-Analysis/blob/master/Resource%20Map.jpeg)
+
+A resource map helps mark the key resources available in a village and is also basis for dividing the village into sectors at a later stage.
+
+**Credits for the drawing :** Venkata Ramana
 
 ## State of water in the village (Prior to our study)
 * According to several villagers, dearth of water is a problem that cripples their daily routines.
