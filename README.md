@@ -7,8 +7,11 @@ Live-in-Labs® is a multidisciplinary experiential learning program that breaks 
 **Source:**  https://www.amrita.edu/international/live-in-labs
 
 ## Acknowledgement
-Being a part of Live in Labs Amrita was an absolutely amazing experience for me. It was wonderful working with the Live in Labs Amrita team.<br>
+Being a part of Live in Labs Amrita(LiLA) was an absolutely amazing experience for me. It was wonderful working with the Live in Labs Amrita team.<br>
 Also, none of this would have been possible without the equal efforts of my team members Nithika Suresh, Bhanuvardhan CH, Venkata Ramana and Lalith Shubhankar. The role of Mr. Vignesh V as our team mentor was also extremely important and resourceful in helping us survey the village conditions effectively.
+
+![The Purpose of LiLA](https://github.com/ry05/Live-in-Labs-Analysis/blob/master/Purpose%20of%20LiLA.PNG)
+**Fig 1.** Infograph depicting the purpose of LiLA
 
 ## Some Preliminary Information about the village we visited
 
@@ -28,7 +31,7 @@ Northern Punjab, India
 ### Resource Map of the Village
 ![Resource Map of Dodeneer](https://github.com/ry05/Live-in-Labs-Analysis/blob/master/Resource%20Map.jpeg)
 
-A resource map helps mark the key resources available in a village and is also basis for dividing the village into sectors at a later stage.
+**Fig 2.** A resource map helps mark the key resources available in a village and is also basis for dividing the village into sectors at a later stage.
 
 **Credits for the drawing :** Venkata Ramana
 
