@@ -80,3 +80,15 @@ The following questions were asked to each household as a part of our survey :
 * **Structure** - Are the questions structured in a way so that they can be masked as a natural conversation? This was very important to consider as a normal conversation would cause people to open up more frankly than a definite set of questions being shot at them.
 * **Length** - We abstained from making a lengthy questionnaire so that we would not be consuming too much time of a person.
 * **Comfort** - In a backward Indian village, not every question will be taken up in the right spirit. So, we decided to refrain from asking questions such as family income as not every household will be willing to give an accurate answer.
+
+## Performing Data Analysis
+How the did I analyze the survey data?
+
+### Analysis Workflow
+![LiLA Survey Workflow](https://github.com/ry05/Live-in-Labs-Analysis/blob/master/LiLA%20Survey%20Workflow.png)
+**Fig 3.** LiLA Survey Analyis Workflow
+
+### Tools Used
+* MS Excel
+* Jupyter Notebook(Python)
+
