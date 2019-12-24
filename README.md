@@ -86,7 +86,8 @@ How the did I analyze the survey data?
 
 ### Analysis Workflow
 ![LiLA Survey Workflow](https://github.com/ry05/Live-in-Labs-Analysis/blob/master/LiLA%20Survey%20Workflow.png)
-**Fig 3.** LiLA Survey Analyis Workflow
+
+**Fig 3.** LiLA Survey Analysis Workflow
 
 ### Tools Used
 * MS Excel
