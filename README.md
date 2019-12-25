@@ -10,7 +10,7 @@ Being a part of Live in Labs Amrita (LiLA) was an amazing experience for me. It 
 
 Also, none of this would have been possible without the equal efforts of my team members Nithika Suresh, Bhanuvardhan CH, Venkata Ramana and Lalith Shubhankar. The role of Mr Vignesh V as our team mentor was also extremely important and resourceful in helping us survey the village conditions effectively.
 
-![The Purpose of LiLA](https://github.com/ry05/Live-in-Labs-Analysis/blob/master/Purpose%20of%20LiLA.PNG)
+![The Purpose of LiLA](https://github.com/ry05/Live-in-Labs-Analysis/blob/master/Purpose%20of%20LiLA.JPG)
 
 **Fig 1.** Infographic depicting the purpose of LiLA
 
