@@ -47,7 +47,7 @@ Northern Punjab, India
 Information about the **Water Consumption Survey** that was conducted at Dodeneer by Team Analytica
 
 ### Why did we conduct this survey?
-In the first 4 days of our brief 7-day visit to the village, we spent our time observing the lifestyle of the villagers. We used strategies such as Participatory Rural Analysis(PRA) to identify the most prevalent issues in the village. Through the use of PRA related tools such as venn diagrams, resource maps and problem trees, we 
+In the first 4 days of our brief 7-day visit to the village, we spent our time observing the lifestyle of the villagers. We used strategies such as Participatory Rural Appraisal(PRA) to identify the most prevalent issues in the village. Through the use of PRA related tools such as venn diagrams, resource maps and problem trees, we 
 were able to draw a detailed picture of the needs of the village and **Water was shaping up as an area of concern**.<br>
 
 Furthermore, through the interviews of the villagers and their personas, we realized that water was a significant area of concern and that the villagers had a lot to complain about when the thematic area in consideration was water.<br>
