@@ -1,6 +1,8 @@
 # Live in Labs Analysis
 Data Analysis undertaken during the Live in Labs program at ASE-B.
 
+**Link to Medium Blog :** https://towardsdatascience.com/leveraging-data-for-social-good-a-practical-example-adac053bdeaa?source=friends_link&sk=8b4b119dcd6660ef2775fa6ea6eb4398
+
 ## What is Live in Labs?
 Live-in-Labs® is a multidisciplinary experiential learning program that breaks classroom and lab barriers by applying learned theory in real-world settings. This credit-based academic program draws on principles of lean research for the development and deployment of sustainable solutions for current challenges faced by rural communities in India. By directly living in rural communities (labs) and co-designing solutions to development challenges, program participants gain first-hand knowledge and know-how of identifying and assessing community needs and subsequently developing and implementing viable solutions through various participatory methods.
 
