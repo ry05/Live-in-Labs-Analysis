@@ -40,7 +40,7 @@ Northern Punjab, India
 
 ### Resource Map of the Village
 
-![Resource Map of Dodeneer](https://github.com/ry05/Live-in-Labs-Analysis/blob/master/Resource%20Map.jpeg)
+![Resource Map of Dodeneer](https://github.com/ry05/Live-in-Labs-Analysis/blob/master/Resource%20Map.jpg)
 
 **Fig 2.** A resource map helps mark the key resources available in a village and is also the basis for dividing the village into sectors at a later stage.
 
